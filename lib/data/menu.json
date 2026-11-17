@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "1",
+    "name": "Chicken Sandwich",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Grilled chicken breast, lettuce, tomato, and mayonnaise on a bun. Comes with a side of fries or a salad.",
+    "categories": ["breakfast", "low-calorie"],
+    "unitPrice": 10,
+    "type": "sandwich",
+    "allergens": ["gluten", "eggs", "dairy"],
+    "rating": {
+      "score": 4.5,
+      "votes": [3, 3, 5, 4, 5]
+    },
+    "reviews": [
+      {
+        "id":"r1",
+        "rating": 5,
+        "author": "John Doe",
+        "title": "Great sandwich",
+        "comment": "Delicious sandwich! The chicken was perfectly cooked and the fries were crispy.",
+        "date": "2023-10-01T12:34:56Z"
+      },
+      {
+        "id":"r2",
+        "rating": 4,
+        "author": "Jane Smith",
+        "title": "Tasty and filling",
+        "comment": "The chicken sandwich was flavorful and the portion size was generous. Loved it!",
+        "date": "2023-10-02T14:22:33Z"
+      },
+      {
+        "id":"r3",
+        "rating": 3,
+        "author": "Mike Johnson",
+        "title": "Average",
+        "comment": "The sandwich was okay, but nothing special. Expected more.",
+        "date": "2023-10-03T16:45:12Z"
+      },
+      {
+        "id":"r4",
+        "rating": 5,
+        "author": "Sarah Thompson",
+        "title": "Best sandwich ever",
+        "comment": "I've had many chicken sandwiches, but this one takes the cake. So delicious!",
+        "date": "2023-10-04T18:30:45Z"
+      },
+      {
+        "id":"r5",
+        "rating": 4.5,
+        "author": "David Wilson",
+        "title": "Great value",
+        "comment": "For the price, this sandwich is a steal. Tastes amazing and comes with fries!",
+        "date": "2023-10-05T20:15:30Z"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Eggs Benedict",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Poached eggs, Canadian bacon, and hollandaise sauce on an English muffin. Served with hash browns.",
+    "categories": ["breakfast", "low-calorie", "dairy"],
+    "unitPrice": 12,
+    "type": "sandwich",
+    "allergens": ["gluten", "eggs", "dairy"],
+    "rating": {
+      "score": 4.2,
+      "votes": [4, 4, 5, 3, 4]
+    },
+    "reviews": [
+      {
+        "id":"r6",
+        "rating": 4,
+        "author": "Amy Johnson",
+        "title": "Delicious breakfast",
+        "comment": "The Eggs Benedict was amazing! Perfectly poached eggs and the hollandaise sauce was so creamy.",
+        "date": "2023-10-01T08:30:00Z"
+      },
+      {
+        "id":"r7",
+        "rating": 5,
+        "author": "Mark Davis",
+        "title": "Best breakfast sandwich",
+        "comment": "I've tried many breakfast sandwiches, but the Eggs Benedict here is on another level. Highly recommend!",
+        "date": "2023-10-02T09:45:00Z"
+      },
+      {
+        "id":"r8",
+        "rating": 3.5,
+        "author": "Emily Thompson",
+        "title": "Decent",
+        "comment": "The Eggs Benedict was decent, but nothing extraordinary. Could use a bit more flavor.",
+        "date": "2023-10-03T10:15:00Z"
+      },
+      {
+        "id":"r9",
+        "rating": 4.5,
+        "author": "Michael Wilson",
+        "title": "Great choice",
+        "comment": "If you're a fan of Eggs Benedict, you won't be disappointed. The flavors are spot on!",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r10",
+        "rating": 4,
+        "author": "Jessica Brown",
+        "title": "Tasty breakfast",
+        "comment": "The combination of poached eggs, Canadian bacon, and hollandaise sauce is a winner. Loved it!",
+        "date": "2023-10-05T12:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Pancakes",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Fluffy pancakes served with maple syrup and your choice of bacon or sausage.",
+    "categories": ["breakfast", "dairy"],
+    "unitPrice": 8,
+    "type": "pancake",
+    "allergens": ["gluten", "eggs", "dairy"],
+    "rating": {
+      "score": 4.8,
+      "votes": [5, 5, 4, 5, 5]
+    },
+    "reviews": [
+      {
+        "id":"r11",
+        "rating": 5,
+        "author": "Sarah Johnson",
+        "title": "Best pancakes ever",
+        "comment": "These pancakes are the best I've ever had. Fluffy, light, and the maple syrup is just perfect.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r12",
+        "rating": 4.5,
+        "author": "John Smith",
+        "title": "Delicious",
+        "comment": "The pancakes were delicious and the bacon was crispy. Perfect breakfast!",
+        "date": "2023-10-02T09:15:00Z"
+      },
+      {
+        "id":"r13",
+        "rating": 4,
+        "author": "Michelle Davis",
+        "title": "Good choice",
+        "comment": "If you're in the mood for pancakes, this is the place to go. Great taste and portion size.",
+        "date": "2023-10-03T10:30:00Z"
+      },
+      {
+        "id":"r14",
+        "rating": 5,
+        "author": "Daniel Wilson",
+        "title": "Amazing breakfast",
+        "comment": "The pancakes were fluffy and the maple syrup was so tasty. Highly recommend!",
+        "date": "2023-10-04T11:45:00Z"
+      },
+      {
+        "id":"r15",
+        "rating": 5,
+        "author": "Jennifer Brown",
+        "title": "Perfect start to the day",
+        "comment": "Nothing beats a stack of pancakes with maple syrup. Loved every bite!",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Avocado Toast",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Toasted bread topped with mashed avocado, cherry tomatoes, and a sprinkle of sea salt. Served with a side of mixed greens.",
+    "categories": ["breakfast", "vegan", "low-calorie"],
+    "unitPrice": 9,
+    "type": "toast",
+    "allergens": ["gluten"],
+    "rating": {
+      "score": 4.5,
+      "votes": [4, 5, 4, 4, 5]
+    },
+    "reviews": [
+      {
+        "id":"r16",
+        "rating": 4.5,
+        "author": "Sophia Johnson",
+        "title": "Healthy and delicious",
+        "comment": "The avocado toast was a perfect combination of flavors. Loved the freshness of the cherry tomatoes.",
+        "date": "2023-10-01T08:15:00Z"
+      },
+      {
+        "id":"r18",
+        "rating": 5,
+        "author": "William Smith",
+        "title": "Great vegan option",
+        "comment": "As a vegan, it's sometimes hard to find tasty options. This avocado toast exceeded my expectations!",
+        "date": "2023-10-02T09:30:00Z"
+      },
+      {
+        "id":"r19",
+        "rating": 4,
+        "author": "Olivia Davis",
+        "title": "Good choice for a light breakfast",
+        "comment": "The avocado toast was light and refreshing. Perfect for a healthy start to the day.",
+        "date": "2023-10-03T10:45:00Z"
+      },
+      {
+        "id":"r20",
+        "rating": 4,
+        "author": "James Wilson",
+        "title": "Tasty and satisfying",
+        "comment": "The avocado toast was delicious and the mixed greens added a nice touch. Would order again!",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r21",
+        "rating": 5,
+        "author": "Ava Brown",
+        "title": "Yummy",
+        "comment": "I love avocado toast and this one did not disappoint. The sea salt added a nice flavor.",
+        "date": "2023-10-05T12:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Omelette",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Fluffy omelette filled with your choice of ingredients, such as cheese, mushrooms, spinach, and bell peppers. Served with toast or hash browns.",
+    "categories": ["breakfast", "dairy"],
+    "unitPrice": 11,
+    "type": "omelette",
+    "allergens": ["eggs", "dairy", "gluten"],
+    "rating": {
+      "score": 4.3,
+      "votes": [4, 3, 5, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r22",
+        "rating": 4,
+        "author": "Ethan Johnson",
+        "title": "Good omelette",
+        "comment": "The omelette was good, but I wish there were more filling options to choose from.",
+        "date": "2023-10-01T08:45:00Z"
+      },
+      {
+        "id":"r23",
+        "rating": 3.5,
+        "author": "Olivia Smith",
+        "title": "Average",
+        "comment": "The omelette was average. Nothing special, but not bad either.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r24",
+        "rating": 5,
+        "author": "Noah Davis",
+        "title": "Delicious and filling",
+        "comment": "The omelette was fluffy and the filling was tasty. Perfect breakfast option!",
+        "date": "2023-10-03T10:15:00Z"
+      },
+      {
+        "id":"r25",
+        "rating": 4,
+        "author": "Emma Wilson",
+        "title": "Great taste",
+        "comment": "The omelette had a great combination of flavors. Would order again!",
+        "date": "2023-10-04T11:30:00Z"
+      },
+      {
+        "id":"r26",
+        "rating": 4,
+        "author": "Liam Brown",
+        "title": "Satisfying breakfast",
+        "comment": "The omelette was filling and the toast was a nice addition. Good portion size.",
+        "date": "2023-10-05T12:45:00Z"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "French Toast",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Thick slices of bread soaked in a mixture of eggs, milk, and cinnamon, then cooked until golden brown. Served with powdered sugar and maple syrup.",
+    "categories": ["breakfast", "dairy"],
+    "unitPrice": 9,
+    "type": "toast",
+    "allergens": ["gluten", "eggs", "dairy"],
+    "rating": {
+      "score": 4.7,
+      "votes": [5, 4, 5, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r27",
+        "rating": 5,
+        "author": "Mia Johnson",
+        "title": "Best French Toast",
+        "comment": "The French Toast was absolutely delicious. Perfectly cooked and the maple syrup was divine.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r28",
+        "rating": 4,
+        "author": "Lucas Smith",
+        "title": "Tasty breakfast option",
+        "comment": "The French Toast was tasty and the powdered sugar added a nice touch. Would order again!",
+        "date": "2023-10-02T09:15:00Z"
+      },
+      {
+        "id":"r29",
+        "rating": 5,
+        "author": "Sophia Davis",
+        "title": "Yummy",
+        "comment": "The French Toast was so yummy. The cinnamon flavor was just right.",
+        "date": "2023-10-03T10:30:00Z"
+      },
+      {
+        "id":"r30",
+        "rating": 5,
+        "author": "Jackson Wilson",
+        "title": "Delicious start to the day",
+        "comment": "The French Toast was a perfect way to start the day. Loved every bite!",
+        "date": "2023-10-04T11:45:00Z"
+      },
+      {
+        "id":"r31",
+        "rating": 4,
+        "author": "Avery Brown",
+        "title": "Good choice",
+        "comment": "The French Toast was good, but I wish there were more slices. Overall, tasty breakfast option.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Breakfast Burrito",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Scrambled eggs, bacon or sausage, cheese, and salsa wrapped in a flour tortilla. Served with a side of hash browns.",
+    "categories": ["breakfast", "spicy", "dairy"],
+    "unitPrice": 10,
+    "type": "burrito",
+    "allergens": ["gluten", "eggs", "dairy"],
+    "rating": {
+      "score": 4.4,
+      "votes": [4, 5, 4, 4, 5]
+    },
+    "reviews": [
+      {
+        "id":"r32",
+        "rating": 4,
+        "author": "Elijah Johnson",
+        "title": "Tasty burrito",
+        "comment": "The breakfast burrito was tasty and the salsa added a nice kick. Good portion size.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r33",
+        "rating": 5,
+        "author": "Charlotte Smith",
+        "title": "Delicious and filling",
+        "comment": "The breakfast burrito was delicious and the hash browns were crispy. Perfect breakfast option!",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r34",
+        "rating": 4,
+        "author": "Harper Davis",
+        "title": "Good choice",
+        "comment": "If you're in the mood for a hearty breakfast, the breakfast burrito is a good choice. Tasty and satisfying.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r35",
+        "rating": 4,
+        "author": "Sebastian Wilson",
+        "title": "Great flavor",
+        "comment": "The combination of scrambled eggs, bacon, cheese, and salsa was a winner. Would order again!",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r36",
+        "rating": 5,
+        "author": "Scarlett Brown",
+        "title": "Yummy",
+        "comment": "The breakfast burrito was so yummy. The flavors worked well together.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Fruit Parfait",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Layers of yogurt, granola, and fresh fruit. Served in a glass or bowl.",
+    "categories": ["breakfast", "dairy", "low-calorie"],
+    "unitPrice": 7,
+    "type": "parfait",
+    "allergens": ["gluten", "dairy", "nuts"],
+    "rating": {
+      "score": 4.6,
+      "votes": [5, 4, 5, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r37",
+        "rating": 5,
+        "author": "Luna Johnson",
+        "title": "Healthy and delicious",
+        "comment": "The fruit parfait was a perfect combination of flavors. Loved the freshness of the fruits.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r38",
+        "rating": 4,
+        "author": "Henry Smith",
+        "title": "Great breakfast option",
+        "comment": "The fruit parfait was a refreshing and healthy breakfast option. Loved the crunch of the granola.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r39",
+        "rating": 5,
+        "author": "Chloe Davis",
+        "title": "Yummy",
+        "comment": "The fruit parfait was so yummy. The yogurt was creamy and the fruits were sweet.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r40",
+        "rating": 5,
+        "author": "Leo Wilson",
+        "title": "Delicious and filling",
+        "comment": "The fruit parfait was a perfect way to start the day. Loved every spoonful!",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r41",
+        "rating": 4,
+        "author": "Zoe Brown",
+        "title": "Good choice",
+        "comment": "The fruit parfait was good, but I wish there were more fruits. Overall, tasty and healthy breakfast option.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Bagel with Cream Cheese",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Toasted bagel with a generous spread of cream cheese. Served with your choice of toppings, such as smoked salmon, tomatoes, or onions.",
+    "categories": ["breakfast", "dairy"],
+    "unitPrice": 6,
+    "type": "bagel",
+    "allergens": ["gluten", "dairy", "fish"],
+    "rating": {
+      "score": 4.1,
+      "votes": [4, 3, 4, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r42",
+        "rating": 4,
+        "author": "Mason Johnson",
+        "title": "Good bagel",
+        "comment": "The bagel with cream cheese was good, but I wish there were more topping options.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r43",
+        "rating": 3,
+        "author": "Evelyn Smith",
+        "title": "Average",
+        "comment": "The bagel with cream cheese was average. Nothing special, but not bad either.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r44",
+        "rating": 4,
+        "author": "Mia Davis",
+        "title": "Decent choice",
+        "comment": "If you're in the mood for a simple breakfast, the bagel with cream cheese is a decent choice.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r45",
+        "rating": 5,
+        "author": "Jack Wilson",
+        "title": "Great taste",
+        "comment": "The bagel with cream cheese had a great taste. The smoked salmon was a nice addition.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r46",
+        "rating": 4,
+        "author": "Lily Brown",
+        "title": "Satisfying breakfast",
+        "comment": "The bagel with cream cheese was filling and the cream cheese was creamy. Good portion size.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Breakfast Bowl",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "A hearty bowl of scrambled eggs, roasted potatoes, sautéed vegetables, and your choice of protein, such as bacon or sausage.",
+    "categories": ["breakfast", "low-calorie"],
+    "unitPrice": 13,
+    "type": "meal",
+    "allergens": ["eggs", "dairy"],
+    "rating": {
+      "score": 4.9,
+      "votes": [5, 5, 4, 5, 5]
+    },
+    "reviews": [
+      {
+        "id":"r47",
+        "rating": 5,
+        "author": "Oliver Johnson",
+        "title": "Hearty and delicious",
+        "comment": "The breakfast bowl was hearty and delicious. The combination of eggs, potatoes, and vegetables was perfect.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r48",
+        "rating": 5,
+        "author": "Amelia Smith",
+        "title": "Perfect breakfast option",
+        "comment": "The breakfast bowl was a perfect way to start the day. The portion size was generous and the flavors were amazing.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r49",
+        "rating": 4,
+        "author": "Evelyn Davis",
+        "title": "Good choice",
+        "comment": "If you're looking for a filling breakfast, the breakfast bowl is a good choice. Loved the sautéed vegetables.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r50",
+        "rating": 5,
+        "author": "Jacob Wilson",
+        "title": "Delicious and satisfying",
+        "comment": "The breakfast bowl was delicious and the scrambled eggs were fluffy. Highly recommend!",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r51",
+        "rating": 5,
+        "author": "Mia Brown",
+        "title": "Yummy",
+        "comment": "The breakfast bowl was so yummy. The roasted potatoes were crispy and the bacon was flavorful.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Cinnamon Roll",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Soft and gooey cinnamon roll topped with cream cheese frosting. Served warm.",
+    "categories": ["breakfast", "sweet", "dairy"],
+    "unitPrice": 5,
+    "type": "pastry",
+    "allergens": ["gluten", "eggs", "dairy"],
+    "rating": {
+      "score": 4.7,
+      "votes": [5, 4, 5, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r52",
+        "rating": 5,
+        "author": "Sophia Johnson",
+        "title": "Delicious treat",
+        "comment": "The cinnamon roll was absolutely delicious. The cream cheese frosting was the perfect touch.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r53",
+        "rating": 4,
+        "author": "Ethan Smith",
+        "title": "Great flavor",
+        "comment": "The cinnamon roll had a great flavor. It was soft and gooey, just like I like it.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r54",
+        "rating": 5,
+        "author": "Ava Davis",
+        "title": "Yummy",
+        "comment": "The cinnamon roll was so yummy. It was the perfect sweet treat for breakfast.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r55",
+        "rating": 5,
+        "author": "Noah Wilson",
+        "title": "Heavenly",
+        "comment": "The cinnamon roll was heavenly. I couldn't resist having another one.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r56",
+        "rating": 4,
+        "author": "Emma Brown",
+        "title": "Good choice",
+        "comment": "The cinnamon roll was a good choice. It satisfied my sweet tooth.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Cheeseburger",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Juicy beef patty topped with melted cheese, lettuce, tomato, and pickles. Served with a side of fries.",
+    "categories": ["lunch", "burger", "american", "dairy"],
+    "unitPrice": 10,
+    "type": "sandwich",
+    "allergens": ["gluten", "dairy"],
+    "rating": {
+      "score": 4.3,
+      "votes": [4, 5, 4, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r57",
+        "rating": 4,
+        "author": "Liam Johnson",
+        "title": "Tasty burger",
+        "comment": "The cheeseburger was tasty. The beef patty was juicy and the toppings were fresh.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r58",
+        "rating": 5,
+        "author": "Olivia Smith",
+        "title": "Best burger",
+        "comment": "The cheeseburger was the best I've ever had. The combination of flavors was perfect.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r59",
+        "rating": 4,
+        "author": "Noah Davis",
+        "title": "Good option",
+        "comment": "If you're craving a burger, the cheeseburger is a good option. It hits the spot.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r60",
+        "rating": 4,
+        "author": "Isabella Wilson",
+        "title": "Satisfying meal",
+        "comment": "The cheeseburger was a satisfying meal. The fries were crispy too.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r61",
+        "rating": 4,
+        "author": "Sophia Brown",
+        "title": "Decent burger",
+        "comment": "The cheeseburger was decent. It could have had a bit more seasoning.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Caesar Salad",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Crisp romaine lettuce, Parmesan cheese, croutons, and Caesar dressing. Add grilled chicken or shrimp for an additional charge.",
+    "categories": ["lunch", "salad", "low-calorie", "dairy"],
+    "unitPrice": 9,
+    "type": "salad",
+    "allergens": ["gluten", "dairy", "fish", "eggs"],
+    "rating": {
+      "score": 4.5,
+      "votes": [5, 4, 4, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r62",
+        "rating": 5,
+        "author": "Jackson Johnson",
+        "title": "Fresh and delicious",
+        "comment": "The Caesar salad was fresh and delicious. The dressing was perfectly balanced.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r63",
+        "rating": 4,
+        "author": "Ava Smith",
+        "title": "Good salad",
+        "comment": "The Caesar salad was a good choice. The croutons added a nice crunch.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r64",
+        "rating": 4,
+        "author": "Liam Davis",
+        "title": "Decent option",
+        "comment": "If you're in the mood for a light lunch, the Caesar salad is a decent option.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r65",
+        "rating": 5,
+        "author": "Emma Wilson",
+        "title": "Great taste",
+        "comment": "The Caesar salad had a great taste. The Parmesan cheese was a nice touch.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r66",
+        "rating": 4,
+        "author": "Olivia Brown",
+        "title": "Satisfying",
+        "comment": "The Caesar salad was satisfying. It filled me up without feeling heavy.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Margherita Pizza",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Classic pizza topped with fresh mozzarella, tomatoes, and basil. Thin and crispy crust.",
+    "categories": ["lunch", "pizza", "italian", "dairy"],
+    "unitPrice": 12,
+    "type": "pizza",
+    "allergens": ["gluten", "dairy"],
+    "rating": {
+      "score": 4.8,
+      "votes": [5, 5, 4, 5, 5]
+    },
+    "reviews": [
+      {
+        "id":"r67",
+        "rating": 5,
+        "author": "Sophia Johnson",
+        "title": "Delicious pizza",
+        "comment": "The Margherita pizza was absolutely delicious. The crust was perfectly crispy.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r68",
+        "rating": 5,
+        "author": "Oliver Smith",
+        "title": "Best pizza",
+        "comment": "The Margherita pizza was the best I've ever had. The fresh mozzarella was amazing.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r69",
+        "rating": 4,
+        "author": "Ava Davis",
+        "title": "Good choice",
+        "comment": "If you're a fan of classic pizza, the Margherita pizza is a good choice.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r70",
+        "rating": 5,
+        "author": "Noah Wilson",
+        "title": "Delicious and authentic",
+        "comment": "The Margherita pizza was delicious and tasted authentic. Highly recommend!",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r71",
+        "rating": 5,
+        "author": "Emma Brown",
+        "title": "Yummy",
+        "comment": "The Margherita pizza was so yummy. The basil added a nice freshness.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Chicken Caesar Wrap",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Grilled chicken, romaine lettuce, Parmesan cheese, and Caesar dressing wrapped in a tortilla. Served with a side of fries or a salad.",
+    "categories": ["lunch", "wrap", "low-calorie", "dairy"],
+    "unitPrice": 11,
+    "type": "wrap",
+    "allergens": ["gluten", "dairy", "fish", "eggs"],
+    "rating": {
+      "score": 4.4,
+      "votes": [4, 5, 4, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r72",
+        "rating": 4,
+        "author": "Jackson Johnson",
+        "title": "Tasty wrap",
+        "comment": "The chicken Caesar wrap was tasty. The chicken was tender and the dressing was flavorful.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r73",
+        "rating": 5,
+        "author": "Olivia Smith",
+        "title": "Great flavor",
+        "comment": "The chicken Caesar wrap had a great flavor. The Parmesan cheese added a nice touch.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r74",
+        "rating": 4,
+        "author": "Noah Davis",
+        "title": "Good option",
+        "comment": "If you're in the mood for a wrap, the chicken Caesar wrap is a good option.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r75",
+        "rating": 4,
+        "author": "Isabella Wilson",
+        "title": "Satisfying meal",
+        "comment": "The chicken Caesar wrap was a satisfying meal. The fries were crispy too.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r76",
+        "rating": 4,
+        "author": "Sophia Brown",
+        "title": "Decent wrap",
+        "comment": "The chicken Caesar wrap was decent. It could have had a bit more seasoning.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Fish and Chips",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Crispy battered fish served with a side of fries and tartar sauce.",
+    "categories": ["lunch", "seafood", "british", "low-calorie"],
+    "unitPrice": 13,
+    "type": "fish",
+    "allergens": ["gluten", "fish", "eggs"],
+    "rating": {
+      "score": 4.2,
+      "votes": [4, 4, 5, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r77",
+        "rating": 4,
+        "author": "Sophia Johnson",
+        "title": "Tasty fish",
+        "comment": "The fish and chips were tasty. The batter was crispy and the fish was flavorful.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r78",
+        "rating": 4,
+        "author": "Oliver Smith",
+        "title": "Good portion",
+        "comment": "The fish and chips had a good portion size. The fries were perfectly cooked.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r7",
+        "rating": 5,
+        "author": "Ava Davis",
+        "title": "Delicious",
+        "comment": "The fish and chips were absolutely delicious. The tartar sauce was a great accompaniment.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r79",
+        "rating": 4,
+        "author": "Noah Wilson",
+        "title": "Authentic taste",
+        "comment": "The fish and chips had an authentic taste. Reminded me of the ones I had in London.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r80",
+        "rating": 4,
+        "author": "Emma Brown",
+        "title": "Yummy",
+        "comment": "The fish and chips were so yummy. The fish was perfectly cooked.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Caprese Panini",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Fresh mozzarella, tomatoes, and basil pressed between slices of ciabatta bread. Served with a side of mixed greens.",
+    "categories": ["lunch", "sandwich", "italian", "dairy"],
+    "unitPrice": 9,
+    "type": "panini",
+    "allergens": ["gluten", "dairy"],
+    "rating": {
+      "score": 4.6,
+      "votes": [5, 4, 5, 4, 5]
+    },
+    "reviews": [
+      {
+        "id":"r81",
+        "rating": 5,
+        "author": "Jackson Johnson",
+        "title": "Delicious panini",
+        "comment": "The Caprese panini was absolutely delicious. The mozzarella was perfectly melted.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r82",
+        "rating": 4,
+        "author": "Olivia Smith",
+        "title": "Good flavor",
+        "comment": "The Caprese panini had a good flavor. The basil added a nice freshness.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r83",
+        "rating": 5,
+        "author": "Noah Davis",
+        "title": "Great choice",
+        "comment": "If you're a fan of Italian sandwiches, the Caprese panini is a great choice.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r84",
+        "rating": 4,
+        "author": "Isabella Wilson",
+        "title": "Satisfying lunch",
+        "comment": "The Caprese panini was a satisfying lunch. The mixed greens were a nice side.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r85",
+        "rating": 5,
+        "author": "Sophia Brown",
+        "title": "Delicious combination",
+        "comment": "The Caprese panini had a delicious combination of flavors. Highly recommend!",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Chicken Caesar Salad",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Grilled chicken, romaine lettuce, Parmesan cheese, croutons, and Caesar dressing.",
+    "categories": ["lunch", "salad", "low-calorie", "dairy"],
+    "unitPrice": 10,
+    "type": "salad",
+    "allergens": ["gluten", "dairy", "fish", "eggs"],
+    "rating": {
+      "score": 4.3,
+      "votes": [4, 5, 4, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r86",
+        "rating": 4,
+        "author": "Jackson Johnson",
+        "title": "Tasty salad",
+        "comment": "The chicken Caesar salad was tasty. The chicken was tender and the dressing was flavorful.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r87",
+        "rating": 5,
+        "author": "Olivia Smith",
+        "title": "Great flavor",
+        "comment": "The chicken Caesar salad had a great flavor. The Parmesan cheese added a nice touch.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r88",
+        "rating": 4,
+        "author": "Noah Davis",
+        "title": "Good option",
+        "comment": "If you're in the mood for a salad, the chicken Caesar salad is a good option.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r89",
+        "rating": 4,
+        "author": "Isabella Wilson",
+        "title": "Satisfying meal",
+        "comment": "The chicken Caesar salad was a satisfying meal. The croutons added a nice crunch.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r90",
+        "rating": 4,
+        "author": "Sophia Brown",
+        "title": "Decent salad",
+        "comment": "The chicken Caesar salad was decent. It could have had a bit more seasoning.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Mushroom Risotto",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Creamy risotto cooked with mushrooms, Parmesan cheese, and white wine.",
+    "categories": ["lunch", "italian", "dairy"],
+    "unitPrice": 14,
+    "type": "risotto",
+    "allergens": ["dairy"],
+    "rating": {
+      "score": 4.7,
+      "votes": [5, 4, 5, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r91",
+        "rating": 5,
+        "author": "Sophia Johnson",
+        "title": "Delicious risotto",
+        "comment": "The mushroom risotto was absolutely delicious. The creamy texture was perfect.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r92",
+        "rating": 4,
+        "author": "Oliver Smith",
+        "title": "Good flavor",
+        "comment": "The mushroom risotto had a good flavor. The mushrooms were cooked perfectly.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r93",
+        "rating": 5,
+        "author": "Ava Davis",
+        "title": "Great choice",
+        "comment": "If you're a fan of Italian cuisine, the mushroom risotto is a great choice.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r94",
+        "rating": 5,
+        "author": "Noah Wilson",
+        "title": "Delicious and creamy",
+        "comment": "The mushroom risotto was delicious and had a creamy texture. Highly recommend!",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r95",
+        "rating": 4,
+        "author": "Emma Brown",
+        "title": "Yummy",
+        "comment": "The mushroom risotto was so yummy. The Parmesan cheese added a nice richness.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "BBQ Pulled Pork Sandwich",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Slow-cooked pulled pork smothered in BBQ sauce and served on a bun. Comes with a side of coleslaw.",
+    "categories": ["lunch", "sandwich", "american", "spicy"],
+    "unitPrice": 12,
+    "type": "sandwich",
+    "allergens": ["gluten", "eggs", "dairy"],
+    "rating": {
+      "score": 4.4,
+      "votes": [4, 5, 4, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r96",
+        "rating": 4,
+        "author": "Jackson Johnson",
+        "title": "Tasty sandwich",
+        "comment": "The BBQ pulled pork sandwich was tasty. The pork was tender and the BBQ sauce was flavorful.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r97",
+        "rating": 5,
+        "author": "Olivia Smith",
+        "title": "Great flavor",
+        "comment": "The BBQ pulled pork sandwich had a great flavor. The coleslaw added a nice crunch.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r98",
+        "rating": 4,
+        "author": "Noah Davis",
+        "title": "Good option",
+        "comment": "If you're in the mood for a sandwich, the BBQ pulled pork sandwich is a good option.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r99",
+        "rating": 4,
+        "author": "Isabella Wilson",
+        "title": "Satisfying meal",
+        "comment": "The BBQ pulled pork sandwich was a satisfying meal. The bun was soft and fresh.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r100",
+        "rating": 4,
+        "author": "Sophia Brown",
+        "title": "Decent sandwich",
+        "comment": "The BBQ pulled pork sandwich was decent. It could have had a bit more spice.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Greek Salad",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Crisp lettuce, tomatoes, cucumbers, red onions, Kalamata olives, and feta cheese. Served with Greek dressing.",
+    "categories": ["lunch", "salad", "mediterranean", "dairy", "low-calorie"],
+    "unitPrice": 9,
+    "type": "salad",
+    "allergens": ["dairy"],
+    "rating": {
+      "score": 4.5,
+      "votes": [5, 4, 4, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r101",
+        "rating": 5,
+        "author": "Jackson Johnson",
+        "title": "Fresh and delicious",
+        "comment": "The Greek salad was fresh and delicious. The feta cheese was perfectly crumbled.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r102",
+        "rating": 4,
+        "author": "Ava Smith",
+        "title": "Good salad",
+        "comment": "The Greek salad was a good choice. The Kalamata olives added a nice tang.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r103",
+        "rating": 4,
+        "author": "Liam Davis",
+        "title": "Decent option",
+        "comment": "If you're in the mood for a Mediterranean salad, the Greek salad is a decent option.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r104",
+        "rating": 5,
+        "author": "Emma Wilson",
+        "title": "Great taste",
+        "comment": "The Greek salad had a great taste. The cucumbers were crisp and refreshing.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r105",
+        "rating": 4,
+        "author": "Olivia Brown",
+        "title": "Satisfying",
+        "comment": "The Greek salad was satisfying. It filled me up without feeling heavy.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Steak",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Juicy grilled steak cooked to perfection. Served with mashed potatoes and steamed vegetables.",
+    "categories": ["dinner", "meat", "grill"],
+    "unitPrice": 20,
+    "type": "steak",
+    "allergens": ["dairy"],
+    "rating": {
+      "score": 4.9,
+      "votes": [5, 5, 4, 5, 5]
+    },
+    "reviews": [
+      {
+        "id":"r106",
+        "rating": 5,
+        "author": "Sophia Johnson",
+        "title": "Delicious steak",
+        "comment": "The steak was absolutely delicious. It was cooked to perfection.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r107",
+        "rating": 5,
+        "author": "Oliver Smith",
+        "title": "Best steak",
+        "comment": "The steak was the best I've ever had. It was juicy and flavorful.",
+        "date": "2023-10-05T12:00:00Z"
+      },
+      {
+        "id":"r108",
+        "rating": 4,
+        "author": "Ava Davis",
+        "title": "Good choice",
+        "comment": "If you're a fan of grilled meat, the steak is a good choice.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r109",
+        "rating": 5,
+        "author": "Noah Wilson",
+        "title": "Delicious and juicy",
+        "comment": "The steak was delicious and juicy. The mashed potatoes were creamy too.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r110",
+        "rating": 5,
+        "author": "Emma Brown",
+        "title": "Yummy",
+        "comment": "The steak was so yummy. The steamed vegetables were perfectly cooked.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Lobster",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Fresh lobster steamed or grilled. Served with drawn butter and lemon wedges.",
+    "categories": ["dinner", "seafood", "luxury"],
+    "unitPrice": 25,
+    "type": "lobster",
+    "allergens": ["molluscs", "dairy"],
+    "rating": {
+      "score": 4.5,
+      "votes": [5, 4, 4, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r111",
+        "rating": 5,
+        "author": "John Doe",
+        "title": "Amazing Lobster",
+        "comment": "The lobster was fresh and delicious. Highly recommend!",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r112",
+        "rating": 4,
+        "author": "Jane Smith",
+        "title": "Good but pricey",
+        "comment": "The lobster was good but a bit pricey.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Pasta Carbonara",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Spaghetti tossed in a creamy sauce made with eggs, Parmesan cheese, pancetta, and black pepper.",
+    "categories": ["dinner", "italian", "pasta", "dairy"],
+    "unitPrice": 16,
+    "type": "pasta",
+    "allergens": ["gluten", "eggs", "dairy"],
+    "rating": {
+      "score": 4.2,
+      "votes": [4, 4, 5, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r113",
+        "rating": 4,
+        "author": "Alice Johnson",
+        "title": "Authentic taste",
+        "comment": "The pasta carbonara had an authentic taste. Could use more sauce.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r114",
+        "rating": 5,
+        "author": "Bob Brown",
+        "title": "Delicious",
+        "comment": "Absolutely delicious! Will order again.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Grilled Salmon",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Fresh salmon fillet marinated and grilled to perfection. Served with roasted potatoes and sautéed spinach.",
+    "categories": ["dinner", "seafood", "low-calorie"],
+    "unitPrice": 18,
+    "type": "salmon",
+    "allergens": ["fish"],
+    "rating": {
+      "score": 4.7,
+      "votes": [5, 5, 4, 5, 5]
+    },
+    "reviews": [
+      {
+        "id":"r115",
+        "rating": 5,
+        "author": "Charlie Davis",
+        "title": "Perfectly cooked",
+        "comment": "The salmon was perfectly cooked and very tasty.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r116",
+        "rating": 4,
+        "author": "Dana Lee",
+        "title": "Healthy choice",
+        "comment": "A healthy and delicious choice. Will order again.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Chicken Parmesan",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Breaded chicken breast topped with marinara sauce and melted mozzarella cheese. Served with spaghetti.",
+    "categories": ["dinner", "italian", "chicken", "dairy"],
+    "unitPrice": 17,
+    "type": "chicken",
+    "allergens": ["gluten", "dairy", "eggs"],
+    "rating": {
+      "score": 4.3,
+      "votes": [4, 5, 4, 4, 5]
+    },
+    "reviews": [
+      {
+        "id":"r117",
+        "rating": 5,
+        "author": "Eve Wilson",
+        "title": "Cheesy and delicious",
+        "comment": "The chicken parmesan was cheesy and delicious.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r118",
+        "rating": 4,
+        "author": "Frank Miller",
+        "title": "Good but dry",
+        "comment": "The chicken was a bit dry but overall good.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Beef Stir Fry",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Tender beef strips stir-fried with vegetables in a savory sauce. Served with steamed rice.",
+    "categories": ["dinner", "meat", "asian"],
+    "unitPrice": 15,
+    "type": "stir fry",
+    "allergens": ["soybeans"],
+    "rating": {
+      "score": 4.1,
+      "votes": [4, 4, 4, 5, 3]
+    },
+    "reviews": [
+      {
+        "id":"r119",
+        "rating": 4,
+        "author": "Grace Martinez",
+        "title": "Great flavors",
+        "comment": "The beef stir fry had great flavors. Could use more vegetables.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r120",
+        "rating": 3,
+        "author": "Henry Garcia",
+        "title": "Average",
+        "comment": "The stir fry was average. Not bad but not great.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Vegetable Curry",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Assorted vegetables cooked in a flavorful curry sauce. Served with basmati rice.",
+    "categories": ["dinner", "indian", "spicy", "vegan"],
+    "unitPrice": 14,
+    "type": "curry",
+    "allergens": ["mustard"],
+    "rating": {
+      "score": 4.6,
+      "votes": [5, 4, 5, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r121",
+        "rating": 5,
+        "author": "Ivy Robinson",
+        "title": "Very flavorful",
+        "comment": "The vegetable curry was very flavorful. Perfect for vegans.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r122",
+        "rating": 4,
+        "author": "Jack Thompson",
+        "title": "Good but spicy",
+        "comment": "The curry was good but a bit too spicy for my taste.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Shrimp Scampi",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Jumbo shrimp sautéed in garlic butter and white wine. Served over linguine.",
+    "categories": ["dinner", "seafood", "italian", "dairy"],
+    "unitPrice": 19,
+    "type": "shrimp",
+    "allergens": ["crustaceans", "gluten", "dairy"],
+    "rating": {
+      "score": 4.4,
+      "votes": [5, 4, 4, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r123",
+        "rating": 5,
+        "author": "Liam White",
+        "title": "Garlicky and delicious",
+        "comment": "The shrimp scampi was garlicky and delicious.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r124",
+        "rating": 4,
+        "author": "Mia Harris",
+        "title": "Perfectly cooked",
+        "comment": "The shrimp were perfectly cooked. Will order again.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Mushroom Steak",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Grilled steak topped with sautéed mushrooms and a rich mushroom sauce. Served with mashed potatoes and roasted vegetables.",
+    "categories": ["dinner", "meat", "grill"],
+    "unitPrice": 22,
+    "type": "steak",
+    "allergens": ["dairy"],
+    "rating": {
+      "score": 4.9,
+      "votes": [5, 5, 4, 5, 5]
+    },
+    "reviews": [
+      {
+        "id":"r125",
+        "rating": 5,
+        "author": "Sophia Johnson",
+        "title": "Delicious steak",
+        "comment": "The steak was absolutely delicious. It was cooked to perfection.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r126",
+        "rating": 5,
+        "author": "Oliver Smith",
+        "title": "Best steak",
+        "comment": "The steak was the best I've ever had. It was juicy and flavorful.",
+        "date": "2023-10-02T09:00:00Z"
+      },
+      {
+        "id":"r127",
+        "rating": 4,
+        "author": "Ava Davis",
+        "title": "Good choice",
+        "comment": "If you're a fan of grilled meat, the steak is a good choice.",
+        "date": "2023-10-03T10:00:00Z"
+      },
+      {
+        "id":"r128",
+        "rating": 5,
+        "author": "Noah Wilson",
+        "title": "Delicious and juicy",
+        "comment": "The steak was delicious and juicy. The mashed potatoes were creamy too.",
+        "date": "2023-10-04T11:00:00Z"
+      },
+      {
+        "id":"r129",
+        "rating": 5,
+        "author": "Emma Brown",
+        "title": "Yummy",
+        "comment": "The steak was so yummy. The steamed vegetables were perfectly cooked.",
+        "date": "2023-10-05T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Eggplant Parmesan",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Breaded eggplant slices topped with marinara sauce and melted mozzarella cheese. Served with spaghetti.",
+    "categories": ["dinner", "italian", "vegetarian", "dairy"],
+    "unitPrice": 16,
+    "type": "eggplant",
+    "allergens": ["gluten", "dairy", "eggs"],
+    "rating": {
+      "score": 4.3,
+      "votes": [4, 5, 4, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r130",
+        "rating": 5,
+        "author": "Liam White",
+        "title": "Delicious",
+        "comment": "The eggplant parmesan was delicious and perfectly cooked.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r131",
+        "rating": 4,
+        "author": "Mia Harris",
+        "title": "Tasty but a bit oily",
+        "comment": "The dish was tasty but a bit oily for my liking.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Iced Coffee",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Chilled coffee served over ice. Add milk or sweetener as desired.",
+    "categories": ["drinks", "coffee"],
+    "unitPrice": 4,
+    "type": "coffee",
+    "allergens": ["dairy"],
+    "rating": {
+      "score": 4.5,
+      "votes": [5, 4, 5, 4, 4]
+    },
+    "reviews": [
+      {
+        "id":"r132",
+        "rating": 5,
+        "author": "Sophia Johnson",
+        "title": "Refreshing",
+        "comment": "The iced coffee was refreshing and just what I needed.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r133",
+        "rating": 4,
+        "author": "Oliver Smith",
+        "title": "Good but could be stronger",
+        "comment": "The coffee was good but could be a bit stronger.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Fresh Juice",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Refreshing blend of freshly squeezed fruits. Choose from orange, apple, or mixed berry.",
+    "categories": ["drinks", "juice", "low-calorie", "vegan"],
+    "unitPrice": 5,
+    "type": "juice",
+    "allergens": [],
+    "rating": {
+      "score": 4.7,
+      "votes": [5, 5, 4, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r134",
+        "rating": 5,
+        "author": "Ava Davis",
+        "title": "Very refreshing",
+        "comment": "The fresh juice was very refreshing and tasty.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r135",
+        "rating": 4,
+        "author": "Noah Wilson",
+        "title": "Good but a bit pricey",
+        "comment": "The juice was good but a bit pricey for the portion size.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Smoothie",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Creamy blend of fruits, yogurt, and ice. Choose from strawberry, mango, or tropical.",
+    "categories": ["drinks", "smoothie", "dairy"],
+    "unitPrice": 6,
+    "type": "smoothie",
+    "allergens": ["dairy"],
+    "rating": {
+      "score": 4.6,
+      "votes": [5, 4, 5, 4, 5]
+    },
+    "reviews": [
+      {
+        "id":"r136",
+        "rating": 5,
+        "author": "Emma Brown",
+        "title": "Delicious and creamy",
+        "comment": "The smoothie was delicious and creamy. Loved the mango flavor.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r137",
+        "rating": 4,
+        "author": "Jack Thompson",
+        "title": "Good but too sweet",
+        "comment": "The smoothie was good but a bit too sweet for my taste.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Iced Tea",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Chilled tea served over ice. Choose from black, green, or herbal.",
+    "categories": ["drinks", "tea", "low-calorie", "vegan"],
+    "unitPrice": 3,
+    "type": "tea",
+    "allergens": [],
+    "rating": {
+      "score": 4.4,
+      "votes": [4, 4, 5, 4, 5]
+    },
+    "reviews": [
+      {
+        "id":"r138",
+        "rating": 5,
+        "author": "Grace Martinez",
+        "title": "Perfectly chilled",
+        "comment": "The iced tea was perfectly chilled and refreshing.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r139",
+        "rating": 4,
+        "author": "Henry Garcia",
+        "title": "Good but needs more flavor",
+        "comment": "The tea was good but could use a bit more flavor.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Soda",
+    "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress",
+    "description": "Carbonated beverages available in various flavors. Choose from cola, lemon-lime, or orange.",
+    "categories": ["drinks", "soda"],
+    "unitPrice": 2,
+    "type": "soda",
+    "allergens": ["sulphur dioxide"],
+    "rating": {
+      "score": 4.2,
+      "votes": [4, 4, 4, 5, 4]
+    },
+    "reviews": [
+      {
+        "id":"r140",
+        "rating": 4,
+        "author": "Ivy Robinson",
+        "title": "Refreshing",
+        "comment": "The soda was refreshing and had a good fizz.",
+        "date": "2023-10-01T08:00:00Z"
+      },
+      {
+        "id":"r141",
+        "rating": 4,
+        "author": "Frank Miller",
+        "title": "Good but too sweet",
+        "comment": "The soda was good but a bit too sweet for my taste.",
+        "date": "2023-10-02T09:00:00Z"
+      }
+    ]
+  }
+]

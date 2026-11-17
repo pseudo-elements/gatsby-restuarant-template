@@ -1,0 +1,434 @@
+[
+  {
+    "images": [
+      "https://i.etsystatic.com/15515907/r/il/20a858/2314845316/il_1140xN.2314845316_9lg3.jpg",
+      "https://img.romwe.com/images/romwe.com/201703/1489627160858728237.jpg",
+      "https://i5.walmartimages.com/asr/536dd76b-957f-457c-b3eb-f392b859759b_1.9d5076091fad01b2d315f328ca33f28f.jpeg"
+    ],
+    "name": "T-shirt",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 20,
+    "features": {
+      "material": "Cotton"
+    },
+    "variants": {
+      "color": {
+        "white": 0,
+        "black": 0,
+        "blue": 0
+      },
+      "size": {
+        "s": 0,
+        "m": 0,
+        "l": 0
+      }
+    },
+    "rating": {
+      "votes": [5, 4, 3, 5, 4],
+      "score": 4.2
+    },
+    "reviews": [
+      {
+        "id": "r142",
+        "author": "Alice Wonderland",
+        "date": "10/01/2024",
+        "rating": 5,
+        "title": "Great Fit",
+        "comment": "Very comfortable and fits perfectly."
+      },
+      {
+        "id": "r143",
+        "author": "Bob Builder",
+        "date": "12/01/2024",
+        "rating": 4,
+        "title": "Nice material",
+        "comment": "The cotton feels very soft."
+      },
+      {
+        "id": "r144",
+        "author": "Charlie brown",
+        "date": "15/01/2024",
+        "rating": 4,
+        "title": "Good Value",
+        "comment": "Great quality for the price."
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "0",
+    "category": "merch"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/585753/pexels-photo-585753.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/4065905/pexels-photo-4065905.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/939833/pexels-photo-939833.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "name": "Mug",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 30,
+    "features": {
+      "material": "ceramic"
+    },
+    "variants": {
+      "color": {
+        "white": 0,
+        "black": 0,
+        "blue": 0
+      },
+      "size": {
+        "s": 0,
+        "m": 0,
+        "l": 0
+      }
+    },
+    "rating": {
+      "votes": [4, 4, 3, 5, 4],
+      "score": 4
+    },
+    "reviews": [
+      {
+        "id": "r148",
+        "author": "Sarah Johnson",
+        "date": "2024-01-25",
+        "rating": 3,
+        "title": "Average Product",
+        "comment": "The mug is okay, nothing special."
+      },
+      {
+        "id": "r149",
+        "author": "Michael Brown",
+        "date": "2024-01-27",
+        "rating": 4,
+        "title": "Nice Design",
+        "comment": "I really like the design of the hoodie."
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "1",
+    "category": "merch"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/333523/pexels-photo-333523.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "name": "House Coffee",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 30,
+    "features": {
+      "flavour": "Home blend"
+    },
+    "variants": {
+      "toast": {
+        "light": 0,
+        "dark": 0
+      }
+    },
+    "rating": {
+      "votes": [5, 4, 3, 5, 4],
+      "score": 4.2
+    },
+    "reviews": [
+      [
+        {
+          "id": "r150",
+          "author": "John Smith",
+          "date": "2024-02-01",
+          "rating": 5,
+          "title": "Delicious Coffee",
+          "comment": "The house coffee has a rich and smooth flavor. Highly recommended!"
+        },
+        {
+          "id": "r151",
+          "author": "Emily Davis",
+          "date": "2024-02-03",
+          "rating": 4,
+          "title": "Great Aroma",
+          "comment": "The aroma of the house coffee is amazing. It's a perfect way to start the day."
+        }
+      ]
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "3",
+    "category": "coffee"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/3999940/pexels-photo-3999940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/333523/pexels-photo-333523.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "name": "Exotic Coffee",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 30,
+    "features": {
+      "flavour": "exotic blend"
+    },
+    "variants": {
+      "toast": {
+        "light": 0,
+        "dark": 0
+      }
+    },
+    "rating": {
+      "votes": [5, 4, 3, 5, 4],
+      "score": 4.2
+    },
+    "reviews": [
+      {
+        "id": "r150",
+        "author": "John Smith",
+        "date": "2024-02-01",
+        "rating": 5,
+        "title": "Delicious Coffee",
+        "comment": "The house coffee has a rich and smooth flavor. Highly recommended!"
+      },
+      {
+        "id": "r151",
+        "author": "Emily Davis",
+        "date": "2024-02-03",
+        "rating": 4,
+        "title": "Great Aroma",
+        "comment": "The aroma of the house coffee is amazing. It's a perfect way to start the day."
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "4",
+    "category": "coffee"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/261434/pexels-photo-261434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "name": "Espresso",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 30,
+    "features": {
+      "flavour": "Espresso blend"
+    },
+    "variants": {
+      "toast": {
+        "light": 0,
+        "dark": 0
+      }
+    },
+    "rating": {
+      "votes": [5, 4, 3, 5, 4],
+      "score": 4.2
+    },
+    "reviews": [
+      {
+        "id": "r150",
+        "author": "John Smith",
+        "date": "2024-02-01",
+        "rating": 5,
+        "title": "Delicious Coffee",
+        "comment": "The house coffee has a rich and smooth flavor. Highly recommended!"
+      },
+      {
+        "id": "r151",
+        "author": "Emily Davis",
+        "date": "2024-02-03",
+        "rating": 4,
+        "title": "Great Aroma",
+        "comment": "The aroma of the house coffee is amazing. It's a perfect way to start the day."
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "5",
+    "category": "coffee"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/905485/pexels-photo-905485.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1362537/pexels-photo-1362537.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/8329281/pexels-photo-8329281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "name": "House Tea",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 30,
+    "features": {
+      "flavour": "Home blend"
+    },
+    "variants": {
+      "recipe": {
+        "original": 0,
+        "spicy": 10
+      }
+    },
+    "rating": {
+      "votes": [4, 4, 3, 5, 4],
+      "score": 4
+    },
+    "reviews": [
+      {
+        "id": "r152",
+        "author": "Jane Doe",
+        "date": "2024-02-05",
+        "rating": 5,
+        "title": "Amazing Taste",
+        "comment": "The house tea has a unique and delicious flavor. I love it!"
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "6",
+    "category": "tea"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/8329342/pexels-photo-8329342.jpeg"
+    ],
+    "name": "Exotic Tea",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 30,
+    "features": {
+      "flavour": "exotic blend"
+    },
+    "variants": {},
+    "rating": {
+      "votes": [4, 4, 3, 5, 4],
+      "score": 4
+    },
+    "reviews": [
+      {
+        "id": "r152",
+        "author": "Jane Doe",
+        "date": "2024-02-05",
+        "rating": 5,
+        "title": "Amazing Taste",
+        "comment": "The house tea has a unique and delicious flavor. I love it!"
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "7",
+    "category": "tea"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/3186743/pexels-photo-3186743.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "name": "Chocolate chip Cookies",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 6,
+    "features": {
+      "flavour": "chocolate chip"
+    },
+    "variants": {
+      "recipe": {
+        "original": 0,
+        "sugar-free": 3
+      },
+      "size": {
+        "300g": 0,
+        "600g": 4
+      }
+    },
+    "rating": {
+      "votes": [4, 4, 3, 5, 4],
+      "score": 4.7
+    },
+    "reviews": [
+      {
+        "id": "r153",
+        "author": "John Doe",
+        "date": "2024-02-07",
+        "rating": 5,
+        "title": "Delicious Cookies",
+        "comment": "The chocolate chip cookies are delicious and crunchy. I love them!"
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "8",
+    "category": "cookies"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/89690/pexels-photo-89690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "name": "Cashew Cookies",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 6,
+    "features": {
+      "flavour": "Cashew"
+    },
+    "variants": {
+      "recipe": {
+        "original": 0,
+        "sugar-free": 3
+      },
+      "size": {
+        "300g": 0,
+        "600g": 4
+      }
+    },
+    "rating": {
+      "votes": [4, 4, 3, 5, 4],
+      "score": 4.7
+    },
+    "reviews": [
+      {
+        "id": "r153",
+        "author": "John Doe",
+        "date": "2024-02-07",
+        "rating": 5,
+        "title": "Delicious Cookies",
+        "comment": "The Cashew cookies are delicious and crunchy. I love them!"
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "9",
+    "category": "cookies"
+  },
+  {
+    "images": [
+      "https://images.pexels.com/photos/7440146/pexels-photo-7440146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "name": "Ginger Cookies",
+    "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "unitPrice": 6,
+    "features": {
+      "flavour": "Ginger"
+    },
+    "variants": {
+      "recipe": {
+        "original": 0,
+        "sugar-free": 3
+      },
+      "size": {
+        "300g": 0,
+        "600g": 4
+      }
+    },
+    "rating": {
+      "votes": [3, 4, 3, 5, 4],
+      "score": 3.8
+    },
+    "reviews": [
+      {
+        "id": "r153",
+        "author": "John Doe",
+        "date": "2024-02-07",
+        "rating": 5,
+        "title": "Delicious Cookies",
+        "comment": "The Ginger cookies are delicious and crunchy. I love them!"
+      }
+    ],
+    "stock": 100,
+    "status": "In stock",
+    "id": "10",
+    "category": "cookies"
+  }
+]
